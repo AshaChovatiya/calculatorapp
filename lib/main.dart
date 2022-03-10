@@ -1,8 +1,7 @@
-import 'package:calculatorapp/home_page.dart';
+import 'package:calculatorapp/ui/Calculator_History/Model/historyitem.dart';
+import 'package:calculatorapp/ui/home_page.dart';
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
-
-import 'model/historyitem.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

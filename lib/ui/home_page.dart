@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'gst_calc.dart';
+import 'gst_calculator.dart';
 import 'simple_calculator.dart';
 
 class HomePage extends StatefulWidget {

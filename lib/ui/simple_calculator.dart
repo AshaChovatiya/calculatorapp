@@ -1,11 +1,11 @@
+import 'package:calculatorapp/ui/Calculator_History/Model/historyitem.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:hive/hive.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:math_expressions/math_expressions.dart';
 
-import 'history.dart';
-import 'model/historyitem.dart';
+import 'Calculator_History/history.dart';
 
 class SimpleCalculator extends StatefulWidget {
   const SimpleCalculator({Key? key}) : super(key: key);
